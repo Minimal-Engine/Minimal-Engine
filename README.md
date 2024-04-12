@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning Python, Japanese, Mechanical Engineering, Statistics, Data Analysis
 - 🌱 I’m currently learning Pyton via Py4e.com
 - 💞️ I’m looking to collaborate on making the world a better place
-- 📫 How to reach me: twitter @minimal_engine
+- 📫 How to reach me: better not at all
 
 <!---
 Minimal-Engine/Minimal-Engine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
